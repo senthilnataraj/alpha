@@ -1,0 +1,5 @@
+ ch=input()
+    if ch.isalpha:
+        print("alphabet")
+    else:
+        print("not alphabet")
